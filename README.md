@@ -1,6 +1,3 @@
-# cmpt-300-stalk
-If you see this and you are not an instructor, TA, or group member, you are committing AD!
-
 ## Usage
 * `make` to compile
 * `make clean` to delete executables and compilation artifacts
